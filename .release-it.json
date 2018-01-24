@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog ${version} -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt > Output.txt",
+    "buildCommand": "changelog ${version} -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt > ${version}.txt",
     "src": {
         "tagName": "st3-%s"
     },
