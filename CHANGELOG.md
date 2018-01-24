@@ -1,3 +1,9 @@
+#### 0.0.10 (2018-01-24)
+
+##### New Features
+
+* **release-it:**  Test multiple commands ([8d08d2ff](https://github.com/Kristinita/SashaBranchReleaseIt/commit/8d08d2ff718175f1425100dfcb9fabe59e531b3d))
+
 #### 0.0.9 (2018-01-24)
 
 ##### Tests
