@@ -1,3 +1,9 @@
+#### 0.0.11 (2018-01-24)
+
+##### Tests
+
+* **file:**  Add install.txt ([f14042c4](https://github.com/Kristinita/SashaBranchReleaseIt/commit/f14042c4f7c35f89bb14a37bbefc8f3ab50abb05))
+
 #### 0.0.10 (2018-01-24)
 
 ##### New Features
