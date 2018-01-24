@@ -1,3 +1,9 @@
+#### 0.0.9 (2018-01-24)
+
+##### Tests
+
+*  File name = version ([11a6cce9](https://github.com/Kristinita/SashaBranchReleaseIt/commit/11a6cce9eca23d4be42b4cd871e3c4d14683e31a))
+
 #### 0.0.8 (2018-01-24)
 
 ##### Tests
