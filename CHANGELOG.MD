@@ -1,3 +1,9 @@
+#### 1.0.19 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Demonstration commit (a564d770)
+
 #### 1.0.18 (2018-01-25)
 
 ##### Build System / Dependencies
