@@ -1,3 +1,9 @@
+#### 1.0.11 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test custom CLI command (f65acb5f)
+
 #### 1.0.10 (2018-01-25)
 
 ##### Build System / Dependencies
