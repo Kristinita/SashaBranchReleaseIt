@@ -1,3 +1,9 @@
+#### 1.0.12 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Remove Angular variable (6ecc5f38)
+
 #### 1.0.11 (2018-01-25)
 
 ##### Build System / Dependencies
