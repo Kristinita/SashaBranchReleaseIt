@@ -7,5 +7,6 @@
 	"src": {
         "tagName": "st3-%s"
     },
-    "increment": "conventional:angular"
+    "increment": "conventional:angular",
+    "changelogCommand": "changelog -f -"
 }
