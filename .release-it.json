@@ -1,11 +1,11 @@
 {
     "buildCommand": "changelog -f - | tee messages\/${version}.txt | cat - CHANGELOG.MD > temp && mv temp CHANGELOG.MD && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
-    "changelogCommand": "bump package.json ${version} && changelog ${version} -f -",
+    "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
     },
-    "safeBump": false,
+    "safeBump": true,
 	"src": {
         "tagName": "st3-%s"
     }
