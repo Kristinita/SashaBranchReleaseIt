@@ -10,6 +10,7 @@
 
 ##### Tests
 
+* **tee:**  tee append in begin to a file (a749cf5a)
 * **src.remote.origin.url variable:**  test src.remote.origin.url (1856aac6)
 * **release-it:**
   *  src.repo.url variabe (b9428384)
