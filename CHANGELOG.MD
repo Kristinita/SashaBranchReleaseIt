@@ -1,3 +1,9 @@
+#### 1.0.10 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  test release messages (cdc028ae)
+
 #### 1.0.9 (2018-01-25)
 
 ##### Build System / Dependencies
