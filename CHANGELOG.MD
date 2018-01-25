@@ -1,3 +1,9 @@
+#### 1.0.17 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **Another test changelog command:**  Another test changelog command (24ea8f32)
+
 #### 1.0.16 (2018-01-25)
 
 #### 1.0.15 (2018-01-25)
