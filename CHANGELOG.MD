@@ -1,3 +1,9 @@
+#### 1.0.18 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Simplify build command (80dbd4d3)
+
 #### 1.0.17 (2018-01-25)
 
 ##### Build System / Dependencies
