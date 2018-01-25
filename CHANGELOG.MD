@@ -1,3 +1,9 @@
+#### 1.0.13 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Add ${version} variable to command (780158a6)
+
 #### 1.0.12 (2018-01-25)
 
 ##### Build System / Dependencies
