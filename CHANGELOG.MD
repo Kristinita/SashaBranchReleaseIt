@@ -1,3 +1,9 @@
+#### 1.0.8 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  move messages to messages folder (33076a4d)
+
 #### 1.0.7 (2018-01-25)
 
 ##### Build System / Dependencies
