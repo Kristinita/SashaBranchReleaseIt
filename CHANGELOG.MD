@@ -1,3 +1,9 @@
+#### 1.0.14 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Debugging, that to see, why incorrect version in release (dad5d338)
+
 #### 1.0.13 (2018-01-25)
 
 ##### Build System / Dependencies
