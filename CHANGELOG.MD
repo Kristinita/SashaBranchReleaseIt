@@ -1,3 +1,12 @@
+#### 1.0.20 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test safe bump — false again (9950ff14)
+  *  Test github.host variable (9a6e87bb)
+  *  Test host variable (02be12e1)
+
 #### 1.0.19 (2018-01-25)
 
 ##### Build System / Dependencies
