@@ -1,0 +1,6 @@
+#### 1.0.2 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Add gyphen ([94e65470](https://github.com/Kristinita/SashaBranchReleaseIt/commit/94e65470c7f079cb6df07b35ec0d99ee4932cd70))
+

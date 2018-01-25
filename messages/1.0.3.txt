@@ -1,0 +1,6 @@
+#### 1.0.3 (2018-01-25)
+
+##### Reverts
+
+* **release-it:**  revert changelog command ([5c85221a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/5c85221a041d01683909f06dbfead2f2c48f6dad))
+

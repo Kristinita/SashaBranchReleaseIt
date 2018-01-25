@@ -1,0 +1,6 @@
+#### 1.0.1 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **compile:**  ChangelogCommand ([04a6a90a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/04a6a90af461b00cfdaa6d973f06ffc3a9a69397))
+

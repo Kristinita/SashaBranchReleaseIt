@@ -1,0 +1,6 @@
+#### 0.0.13 (2018-01-24)
+
+##### Bug Fixes
+
+* **release-it:**  fix .release-it.json file ([fff316de](https://github.com/Kristinita/SashaBranchReleaseIt/commit/fff316de73f681693fa61b3651a65752674ec388))
+

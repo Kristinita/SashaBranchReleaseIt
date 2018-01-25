@@ -1,0 +1,6 @@
+#### 1.0.0 (2018-01-25)
+
+##### Bug Fixes
+
+* **$release-it:**  Test Angular convention ([990bc5a4](https://github.com/Kristinita/SashaBranchReleaseIt/commit/990bc5a4e6e80fe03dca0c6cdbdcdb3d16f44739))
+
