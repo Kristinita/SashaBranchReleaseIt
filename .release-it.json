@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog ${version} -u ${dist.repo} -f - | tee messages\/${version}.txt | tee -a CHANGELOG.MD && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
+    "buildCommand": "changelog ${version} -u ${src.repo} -f - | tee messages\/${version}.txt | tee -a CHANGELOG.MD && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
