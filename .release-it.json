@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
+    "buildCommand": "changelog",
     "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
