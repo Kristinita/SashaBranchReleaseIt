@@ -78,3 +78,23 @@
 
 * **release-it:**  revert changelog command ([5c85221a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/5c85221a041d01683909f06dbfead2f2c48f6dad))
 
+#### 1.0.5 (2018-01-25)
+
+##### Chores
+
+* **test:**  remote.origin.url variable ([d17ae84b](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d17ae84b1551110d3d7dd418e9fc4e05a4dd9e6b))
+
+##### Reverts
+
+* **release-it:**  revert incorrect variables ([d0cf4421](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d0cf44212148f55008fbe59c5641d6a28d1d6ade))
+
+##### Tests
+
+* **release-it:**
+  *  add some changes to commit ([9d5d6d1b](https://github.com/Kristinita/SashaBranchReleaseIt/commit/9d5d6d1b87fbf72d34975f347539eb1cd882dfdb))
+  *  src.repo.url variabe ([b9428384](https://github.com/Kristinita/SashaBranchReleaseIt/commit/b9428384664c8f4e2f89f9ed7e6c5309df49c06e))
+  *  src remote ([07843f56](https://github.com/Kristinita/SashaBranchReleaseIt/commit/07843f56c49f72c9a41a8eb01097b171807731f1))
+* **tee:**  tee append in begin to a file ([a749cf5a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/a749cf5abc7ef572cc2ccde59d5ed921cbd35524))
+* **src.remote.origin.url variable:**  test src.remote.origin.url ([1856aac6](https://github.com/Kristinita/SashaBranchReleaseIt/commit/1856aac6dcf614e967d3d29b001f39d103e8b4f7))
+* **releate-it:**  Test dist.repo variable ([9670900e](https://github.com/Kristinita/SashaBranchReleaseIt/commit/9670900e2dada7f3f26f2484e49e2016d02f094b))
+
