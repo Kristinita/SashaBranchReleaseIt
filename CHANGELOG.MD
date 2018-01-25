@@ -1,3 +1,9 @@
+#### 1.0.21 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test safeBump = false in new release (227cc0d4)
+
 #### 1.0.20 (2018-01-25)
 
 ##### Build System / Dependencies
