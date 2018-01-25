@@ -1,6 +1,6 @@
 {
     "buildCommand": "changelog ${version}",
-    "changelogCommand": "changelog ${version} -f -",
+    "changelogCommand": "changelog ${version} -u $(git config --get remote.origin.url) -f -",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
