@@ -10,3 +10,9 @@
 
 * **release-it:**  fix .release-it.json file ([fff316de](https://github.com/Kristinita/SashaBranchReleaseIt/commit/fff316de73f681693fa61b3651a65752674ec388))
 
+#### 1.0.0 (2018-01-25)
+
+##### Bug Fixes
+
+* **$release-it:**  Test Angular convention ([990bc5a4](https://github.com/Kristinita/SashaBranchReleaseIt/commit/990bc5a4e6e80fe03dca0c6cdbdcdb3d16f44739))
+
