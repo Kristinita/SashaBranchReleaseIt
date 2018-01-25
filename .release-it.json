@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog ${version} -u $(git config --get remote.origin.url) -",
+    "buildCommand": "changelog ${version} -u $(git config --get remote.origin.url)",
     "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
