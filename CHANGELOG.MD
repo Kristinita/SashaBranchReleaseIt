@@ -1,3 +1,14 @@
+#### 1.0.15 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test changelog command without additions (65f05671)
+  *  Bump before changelog (9faa2e7f)
+  *  Test save bump true (44ffaac1)
+  *  Test bump command after changelog (9b75d407)
+  *  Test save-bump false (16bfa9ca)
+
 #### 1.0.14 (2018-01-25)
 
 ##### Build System / Dependencies
