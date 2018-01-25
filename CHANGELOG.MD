@@ -1,3 +1,9 @@
+#### 1.0.9 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test Angular convention (d05a2972)
+
 #### 1.0.8 (2018-01-25)
 
 #### 1.0.8 (2018-01-25)
