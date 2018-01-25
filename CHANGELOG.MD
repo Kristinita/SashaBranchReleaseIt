@@ -40,3 +40,9 @@
 
 * **release-it:**  Add gyphen ([94e65470](https://github.com/Kristinita/SashaBranchReleaseIt/commit/94e65470c7f079cb6df07b35ec0d99ee4932cd70))
 
+#### 1.0.3 (2018-01-25)
+
+##### Reverts
+
+* **release-it:**  revert changelog command ([5c85221a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/5c85221a041d01683909f06dbfead2f2c48f6dad))
+
