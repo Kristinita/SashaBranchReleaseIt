@@ -1,3 +1,9 @@
+#### 1.2.1 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Custom changelog command ([d95b9df3](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d95b9df38611b3886b04c19d70fe373f1c514713))
+
 #### 1.2.0 (2018-01-29)
 
 ##### Build System / Dependencies
