@@ -1,3 +1,9 @@
+#### 1.2.4 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Major version without ${version} variable ([ba770892](https://github.com/Kristinita/SashaBranchReleaseIt/commit/ba7708920803d1c1a52b9d2f5cdffcc5a2e064eb))
+
 #### 1.2.3 (2018-01-29)
 
 ##### Build System / Dependencies
