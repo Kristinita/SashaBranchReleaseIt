@@ -1,3 +1,17 @@
+#### 1.0.28 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  It Changelog command, not build command (800d5800)
+  *  Test repo variable (5f0883fc)
+  *  Command-line variable in build command (acef94a4)
+  *  Desable -f (cdad4385)
+  *  Curly braces not round again (b0b54cad)
+  *  Curly braces, not round (6801469a)
+  *  Test variable, that I get from command line (26a0f23b)
+* **Test variable from command line in build command:**  buildCommand, not changelogCommand (72157be8)
+
 #### 1.0.27 (2018-01-25)
 
 ##### Build System / Dependencies
