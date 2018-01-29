@@ -1,3 +1,164 @@
+#### 1.1.0 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Another test minor version ([099c4ffc](https://github.com/Kristinita/SashaBranchReleaseIt/commit/099c4ffce8fc8b7858a83e5073f322f3296b9057))
+
+#### 1.0.37 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test minor changes ([cd8c92a0](https://github.com/Kristinita/SashaBranchReleaseIt/commit/cd8c92a0c053d8258fa0a6c1a29077ba2b413103))
+
+#### 1.0.36 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Disable ChangelogCommand ([c44aae4f](https://github.com/Kristinita/SashaBranchReleaseIt/commit/c44aae4fca1e61fd20be08103bd020616e231e6a))
+
+#### 1.0.35 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Real Changelog command ([9109a972](https://github.com/Kristinita/SashaBranchReleaseIt/commit/9109a972a56f125abc3666d56c728905fde8d6eb))
+
+#### 1.0.34 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Another remove .stage (e079e016)
+  *  Remove .stage (98baecaf)
+  *  Real build command (73240b6b)
+
+#### 1.0.33 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Multiple commands to build command, not changelog (f1e3d540)
+
+#### 1.0.32 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Real command (06d323df)
+
+#### 1.0.31 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Disable dist.repo (93c14093)
+
+#### 1.0.30 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test dist.repo (ec01a893)
+
+#### 1.0.29 (2018-01-29)
+
+#### 1.0.28 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  It Changelog command, not build command (800d5800)
+  *  Test repo variable (5f0883fc)
+  *  Command-line variable in build command (acef94a4)
+  *  Desable -f (cdad4385)
+  *  Curly braces not round again (b0b54cad)
+  *  Curly braces, not round (6801469a)
+  *  Test variable, that I get from command line (26a0f23b)
+* **Test variable from command line in build command:**  buildCommand, not changelogCommand (72157be8)
+
+#### 1.0.27 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Command-line variable in build command ([acef94a4]($(git/commit/acef94a4fac6c9c7331be0fc7b1f98d87e59c1d3))
+  *  Desable -f ([cdad4385]($(git/commit/cdad4385ff960e51373ae74136b5dfee95bff28f))
+  *  Curly braces not round again ([b0b54cad]($(git/commit/b0b54cad05e1aa208833d6ea6da3672b27129da3))
+  *  Curly braces, not round ([6801469a]($(git/commit/6801469a4cb92500ece064fb55d33a9c86cce59f))
+  *  Test variable, that I get from command line ([26a0f23b]($(git/commit/26a0f23bf359f4ddd527d419424937a49906bf4c))
+* **Test variable from command line in build command:**  buildCommand, not changelogCommand ([72157be8]($(git/commit/72157be8c3de51afdc247ddbb9e41f85c87acbda))
+
+#### 1.0.21 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test safeBump = false in new release (227cc0d4)
+
+#### 1.0.20 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test safe bump — false again (9950ff14)
+  *  Test github.host variable (9a6e87bb)
+  *  Test host variable (02be12e1)
+
+#### 1.0.19 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Demonstration commit (a564d770)
+
+#### 1.0.18 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Simplify build command (80dbd4d3)
+
+#### 1.0.17 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **Another test changelog command:**  Another test changelog command (24ea8f32)
+
+#### 1.0.16 (2018-01-25)
+
+#### 1.0.15 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test changelog command without additions (65f05671)
+  *  Bump before changelog (9faa2e7f)
+  *  Test save bump true (44ffaac1)
+  *  Test bump command after changelog (9b75d407)
+  *  Test save-bump false (16bfa9ca)
+
+#### 1.0.14 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Debugging, that to see, why incorrect version in release (dad5d338)
+
+#### 1.0.13 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Add ${version} variable to command (780158a6)
+
+#### 1.0.12 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Remove Angular variable (6ecc5f38)
+
+#### 1.0.11 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test custom CLI command (f65acb5f)
+
+#### 1.0.10 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**  test release messages (cdc028ae)
+
 #### 1.0.9 (2018-01-25)
 
 ##### Build System / Dependencies
