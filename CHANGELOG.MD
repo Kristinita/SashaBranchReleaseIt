@@ -1,3 +1,9 @@
+#### 1.2.2 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Merge branches with changelogCommand ([03606288](https://github.com/Kristinita/SashaBranchReleaseIt/commit/03606288eb56ad0d8a4387ccf04b3bb4f9eea4bc))
+
 #### 1.2.1 (2018-01-29)
 
 ##### Build System / Dependencies
