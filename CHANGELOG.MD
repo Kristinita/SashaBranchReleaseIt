@@ -1,3 +1,9 @@
+#### 1.0.30 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test dist.repo (ec01a893)
+
 #### 1.0.29 (2018-01-29)
 
 #### 1.0.28 (2018-01-29)
