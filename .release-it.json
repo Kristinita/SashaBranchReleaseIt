@@ -1,6 +1,6 @@
 {
     "buildCommand": "changelog ${version}",
-    "changelogCommand": "changelog ${version} -f - -u ${dist.repo}",
+    "changelogCommand": "changelog ${version} -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
@@ -8,8 +8,5 @@
     "safeBump": false,
 	"src": {
         "tagName": "st3-%s"
-    },
-    "dist": {
-    	"repo": "https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt"
     }
 }
