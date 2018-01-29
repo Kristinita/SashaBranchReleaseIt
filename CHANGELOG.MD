@@ -1,3 +1,9 @@
+#### 1.0.31 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Disable dist.repo (93c14093)
+
 #### 1.0.30 (2018-01-29)
 
 ##### Build System / Dependencies
