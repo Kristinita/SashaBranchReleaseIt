@@ -1,3 +1,9 @@
+#### 1.0.35 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Real Changelog command ([9109a972](https://github.com/Kristinita/SashaBranchReleaseIt/commit/9109a972a56f125abc3666d56c728905fde8d6eb))
+
 #### 1.0.34 (2018-01-29)
 
 ##### Build System / Dependencies
