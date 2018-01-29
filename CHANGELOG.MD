@@ -1,3 +1,15 @@
+#### 1.2.1 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Custom changelog command ([d95b9df3](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d95b9df38611b3886b04c19d70fe373f1c514713))
+
+#### 1.2.0 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test branches merging ([2d0652f3](https://github.com/Kristinita/SashaBranchReleaseIt/commit/2d0652f3ad87779caef34771bd78a79fc058efa8))
+
 #### 1.1.0 (2018-01-29)
 
 ##### Build System / Dependencies
