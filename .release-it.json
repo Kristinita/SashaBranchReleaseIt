@@ -1,6 +1,6 @@
 {
-    "buildCommand": "changelog ${version} -u ${dist.repo}",
-    "changelogCommand": "changelog ${version} -f -",
+    "buildCommand": "changelog ${version}",
+    "changelogCommand": "changelog ${version} -f - -u ${dist.repo}",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
