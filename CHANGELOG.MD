@@ -1,3 +1,9 @@
+#### 1.0.33 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Multiple commands to build command, not changelog (f1e3d540)
+
 #### 1.0.32 (2018-01-29)
 
 ##### Build System / Dependencies
