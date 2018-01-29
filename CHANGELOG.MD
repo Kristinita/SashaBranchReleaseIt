@@ -1,3 +1,9 @@
+#### 1.2.3 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Disable version in build command ([4f7918d5](https://github.com/Kristinita/SashaBranchReleaseIt/commit/4f7918d5afe21ba3364a62aaa15618548f19c6da))
+
 #### 1.2.2 (2018-01-29)
 
 ##### Build System / Dependencies
