@@ -1,3 +1,9 @@
+#### 1.0.37 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test minor changes ([cd8c92a0](https://github.com/Kristinita/SashaBranchReleaseIt/commit/cd8c92a0c053d8258fa0a6c1a29077ba2b413103))
+
 #### 1.0.36 (2018-01-29)
 
 ##### Build System / Dependencies
