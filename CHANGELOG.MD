@@ -1,3 +1,12 @@
+#### 1.0.34 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Another remove .stage (e079e016)
+  *  Remove .stage (98baecaf)
+  *  Real build command (73240b6b)
+
 #### 1.0.33 (2018-01-29)
 
 ##### Build System / Dependencies
