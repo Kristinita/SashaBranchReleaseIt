@@ -1,3 +1,9 @@
+#### 1.0.36 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Disable ChangelogCommand ([c44aae4f](https://github.com/Kristinita/SashaBranchReleaseIt/commit/c44aae4fca1e61fd20be08103bd020616e231e6a))
+
 #### 1.0.35 (2018-01-29)
 
 ##### Build System / Dependencies
