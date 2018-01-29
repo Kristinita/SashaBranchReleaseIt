@@ -1,6 +1,6 @@
 {
     "buildCommand": "changelog ${version}",
-    "changelogCommand": "changelog ${version} -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt",
+    "changelogCommand": "changelog ${version} -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
