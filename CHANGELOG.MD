@@ -1,3 +1,15 @@
+#### 1.0.27 (2018-01-25)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Command-line variable in build command ([acef94a4]($(git/commit/acef94a4fac6c9c7331be0fc7b1f98d87e59c1d3))
+  *  Desable -f ([cdad4385]($(git/commit/cdad4385ff960e51373ae74136b5dfee95bff28f))
+  *  Curly braces not round again ([b0b54cad]($(git/commit/b0b54cad05e1aa208833d6ea6da3672b27129da3))
+  *  Curly braces, not round ([6801469a]($(git/commit/6801469a4cb92500ece064fb55d33a9c86cce59f))
+  *  Test variable, that I get from command line ([26a0f23b]($(git/commit/26a0f23bf359f4ddd527d419424937a49906bf4c))
+* **Test variable from command line in build command:**  buildCommand, not changelogCommand ([72157be8]($(git/commit/72157be8c3de51afdc247ddbb9e41f85c87acbda))
+
 #### 1.0.21 (2018-01-25)
 
 ##### Build System / Dependencies

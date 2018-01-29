@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog ${version} -u $(git config --get remote.origin.url)",
+    "buildCommand": "changelog ${version} -u ${dist.repo}",
     "changelogCommand": "changelog ${version} -f -",
     "github": {
         "release": true,
@@ -8,5 +8,8 @@
     "safeBump": false,
 	"src": {
         "tagName": "st3-%s"
+    },
+    "dist": {
+    	"repo": "https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt"
     }
 }
