@@ -1,3 +1,9 @@
+#### 1.0.32 (2018-01-29)
+
+##### Build System / Dependencies
+
+* **release-it:**  Real command (06d323df)
+
 #### 1.0.31 (2018-01-29)
 
 ##### Build System / Dependencies
