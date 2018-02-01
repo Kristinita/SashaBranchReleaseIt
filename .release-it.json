@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt",
+    "buildCommand": "changelog -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt -f Changelog.md",
     "changelogCommand": "changelog -f -",
     "github": {
         "release": true,
