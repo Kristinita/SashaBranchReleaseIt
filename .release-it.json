@@ -1,12 +1,9 @@
 {
-    "buildCommand": "changelog -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt | tee messages\/${version}.txt | cat - CHANGELOG.MD > temp && mv temp CHANGELOG.MD && sed -i '\/\\\"install\\\": \\\"messages\\\/install\\.txt\\\"\/i\\\"${version}\\\": \\\"messages\\\/${version}\\.txt\\\",' messages.json && js-beautify -r messages.json",
+    "buildCommand": "changelog -f - -u https:\/\/github.com\/Kristinita\/SashaBranchReleaseIt",
     "changelogCommand": "changelog -f -",
     "github": {
         "release": true,
         "tokenRef": "GITHUB_TOKEN"
     },
-    "safeBump": false,
-	"src": {
-        "tagName": "st3-%s"
-    }
+    "safeBump": false
 }
