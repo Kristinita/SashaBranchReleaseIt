@@ -1,3 +1,9 @@
+#### 2.0.4 (2018-02-01)
+
+##### Build System / Dependencies
+
+* **release-it:**  Fix buildCommand ([87962ffa](https://github.com/Kristinita/SashaBranchReleaseIt/commit/87962ffa5901b2ca3fcab39ef9782bd244023af4))
+
 #### 2.0.1 (2018-01-29)
 
 #### 2.0.0 (2018-01-29)
