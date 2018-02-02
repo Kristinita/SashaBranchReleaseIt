@@ -1,3 +1,9 @@
+#### 2.0.5 (2018-02-02)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test version auto-update ([8cda79a4](https://github.com/Kristinita/SashaBranchReleaseIt/commit/8cda79a41708821ce21d4c38fb4421e052bd912c))
+
 #### 2.0.4 (2018-02-01)
 
 ##### Build System / Dependencies
