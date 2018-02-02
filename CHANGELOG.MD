@@ -1,3 +1,9 @@
+#### 2.0.6 (2018-02-02)
+
+##### Build System / Dependencies
+
+* **release-it:**  Replace + to * quantifier in regex ([beae1aed](https://github.com/Kristinita/SashaBranchReleaseIt/commit/beae1aed67b2bd4fd2635ea88c86c00d98d518a5))
+
 #### 2.0.5 (2018-02-02)
 
 ##### Build System / Dependencies
