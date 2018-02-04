@@ -1,5 +1,5 @@
 {
-    "buildCommand": "changelog -u ${repo.repository} -f Changelog.md && sed -i 's\/^version = .*$\/version = ${version}\/g' setup.cfg",
+    "buildCommand": "changelog -u ${repo.project} -f Changelog.md && sed -i 's\/^version = .*$\/version = ${version}\/g' setup.cfg",
     "changelogCommand": "changelog -f -",
     "github": {
         "release": true,
