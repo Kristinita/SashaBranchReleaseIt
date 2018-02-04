@@ -1,3 +1,9 @@
+#### 2.0.9 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Remove additional slashes ([67e0e54f](https://github.com/Kristinita/SashaBranchReleaseIt/commit/67e0e54fa241dde9c872daafdb4b0cb026da8955))
+
 #### 2.0.8 (2018-02-04)
 
 ##### Build System / Dependencies
