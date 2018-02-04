@@ -1,3 +1,9 @@
+#### 2.0.11 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Remove slashes in URL ([d2645051](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d26450511d28a7c65f6639e9d709f139f577fa81))
+
 #### 2.0.10 (2018-02-04)
 
 ##### Build System / Dependencies
