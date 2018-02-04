@@ -1,3 +1,25 @@
+#### 2.0.7 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test repo.host and repo.repository ([51fc63e0](https://github.com/Kristinita/SashaBranchReleaseIt/commit/51fc63e0f284eadd4faa6add79138f5c6f8c30bb))
+  *  Revert to repo.remote ([8b283fe2](https://github.com/Kristinita/SashaBranchReleaseIt/commit/8b283fe241e417832346b691a8ddb7462d061117))
+  *  Test repo.project ([d537cda4](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d537cda4a261f66b53bde538f36ee6a228613b8c))
+  *  Test repo.repository ([0b67da78](https://github.com/Kristinita/SashaBranchReleaseIt/commit/0b67da788e5f626a07d44042797db060d6e8b3c0))
+  *  repo.host instead of repo.remote ([d49da369](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d49da369ba24041571fd7aad5007e09db0c4f340))
+  *  Test repo.remote variable ([33da9dbb](https://github.com/Kristinita/SashaBranchReleaseIt/commit/33da9dbb26e53685e1da9aadf799996746f47576))
+  *  Test alias on Windows ([41d331b0](https://github.com/Kristinita/SashaBranchReleaseIt/commit/41d331b08569c7395b95d6dc1c3a008eb3b48b3d))
+
+##### Tests
+
+* **commitizen:**
+  *  Close issue, if capital letter in Fix word ([202ef475](https://github.com/Kristinita/SashaBranchReleaseIt/commit/202ef475aba4a340a7dcc07ec62b081200af90a3))
+  *  Long description + close issue ([002030c2](https://github.com/Kristinita/SashaBranchReleaseIt/commit/002030c298f69b98035555710c14eb2fd3c30792))
+  *  Test fix #<issue_number> ([efdfce32](https://github.com/Kristinita/SashaBranchReleaseIt/commit/efdfce3243590aa55f174206461ce48642e520b6))
+  *  Test #<issue_number> ([1a543c86](https://github.com/Kristinita/SashaBranchReleaseIt/commit/1a543c8635eeb1cc0566d36395b6931cb14b0e34))
+  *  Test, how commitizen close issues ([bb7581d7](https://github.com/Kristinita/SashaBranchReleaseIt/commit/bb7581d715ddc01ac418e07951ba6f89147866ab))
+
 #### 2.0.6 (2018-02-02)
 
 ##### Build System / Dependencies
