@@ -1,3 +1,9 @@
+#### 2.0.8 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Remove escaping slashes ([a571667c](https://github.com/Kristinita/SashaBranchReleaseIt/commit/a571667cb9eda0ad67397c0d77a6790b35172abc))
+
 #### 2.0.7 (2018-02-04)
 
 ##### Build System / Dependencies
