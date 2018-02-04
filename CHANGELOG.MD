@@ -1,3 +1,9 @@
+#### 2.0.12 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Fix messages.json ([50098f3a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/50098f3a4fb5f61b14bd4dd3ab677c0cd35574ab))
+
 #### 2.0.11 (2018-02-04)
 
 ##### Build System / Dependencies
