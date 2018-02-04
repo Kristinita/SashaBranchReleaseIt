@@ -1,0 +1,6 @@
+#### 2.0.10 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Escape all slashes ([9491eb1a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/9491eb1a3383e9fd2345d1b38ca6acc4d99b89f3))
+
