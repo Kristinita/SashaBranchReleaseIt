@@ -1,3 +1,13 @@
+#### 2.0.15 (2018-02-09)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Version variable, not constant version ([d8c512ad](https://github.com/Kristinita/SashaBranchReleaseIt/commit/d8c512ad82793dd5151f4ebdc9032f042ee4401f))
+  *  Test sed command for VERSION ([0d8df2b3](https://github.com/Kristinita/SashaBranchReleaseIt/commit/0d8df2b32268fe4d2397f4abbe120742800d22e7))
+  *  Test npm publish false ([2928f9f7](https://github.com/Kristinita/SashaBranchReleaseIt/commit/2928f9f779f2e846d7d4b8319bc5cc02e2b71220))
+  *  Test .release-it.json for real Erichek package ([26a136ae](https://github.com/Kristinita/SashaBranchReleaseIt/commit/26a136aeea089f73b510491b7df2918be99d2976))
+
 #### 2.0.14 (2018-02-09)
 
 ##### Build System / Dependencies
