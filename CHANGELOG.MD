@@ -1,3 +1,11 @@
+#### 2.0.14 (2018-02-09)
+
+##### Build System / Dependencies
+
+* **release-it:**
+  *  Test npm publish false ([2928f9f7](https://github.com/Kristinita/SashaBranchReleaseIt/commit/2928f9f779f2e846d7d4b8319bc5cc02e2b71220))
+  *  Test .release-it.json for real Erichek package ([26a136ae](https://github.com/Kristinita/SashaBranchReleaseIt/commit/26a136aeea089f73b510491b7df2918be99d2976))
+
 #### 2.0.13 (2018-02-04)
 
 ##### Build System / Dependencies
