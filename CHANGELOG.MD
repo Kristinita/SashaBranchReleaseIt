@@ -1,3 +1,9 @@
+#### 2.0.13 (2018-02-04)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test .release-it.json for real Erichek package ([26a136ae](https://github.com/Kristinita/SashaBranchReleaseIt/commit/26a136aeea089f73b510491b7df2918be99d2976))
+
 #### 2.0.12 (2018-02-04)
 
 ##### Build System / Dependencies
