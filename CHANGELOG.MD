@@ -1,3 +1,9 @@
+#### 2.0.22 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test .release-it.json 7.0.2 ([6ba78af2](https://github.com/Kristinita/SashaBranchReleaseIt/commit/6ba78af24011d7c7d206bb811e0318bdd8c0407f))
+
 #### 2.0.21 (2018-02-11)
 
 ##### Build System / Dependencies
