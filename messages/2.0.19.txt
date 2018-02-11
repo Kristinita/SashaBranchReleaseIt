@@ -1,0 +1,6 @@
+#### 2.0.19 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  Test 7.0.2 version ([c0eabf2d](https://github.com/Kristinita/SashaBranchReleaseIt/commit/c0eabf2d00fc700418867cb4ca730a6aa9100784))
+
