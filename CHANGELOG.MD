@@ -1,3 +1,9 @@
+#### 2.0.17 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  As in SashaSublime ([ca1bb19f](https://github.com/Kristinita/SashaBranchReleaseIt/commit/ca1bb19f84622056f87790b196609db8779352a9))
+
 #### 2.0.16 (2018-02-09)
 
 ##### Build System / Dependencies
