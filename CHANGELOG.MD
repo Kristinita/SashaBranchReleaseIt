@@ -1,3 +1,9 @@
+#### 2.0.20 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  6.2.0 version ([cb178538](https://github.com/Kristinita/SashaBranchReleaseIt/commit/cb1785380e12cf4a14a8253895e9aa35b07c474d))
+
 #### 2.0.19 (2018-02-11)
 
 ##### Build System / Dependencies
