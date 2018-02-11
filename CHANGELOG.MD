@@ -1,3 +1,9 @@
+#### 2.0.21 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  Simplify .release-it.json for release-it 6.2.0 ([56afd69e](https://github.com/Kristinita/SashaBranchReleaseIt/commit/56afd69e66ca4788fb1b424b6943f99a71a2118c))
+
 #### 2.0.20 (2018-02-11)
 
 ##### Build System / Dependencies
