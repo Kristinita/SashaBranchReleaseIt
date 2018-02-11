@@ -1,3 +1,9 @@
+#### 2.0.18 (2018-02-11)
+
+##### Build System / Dependencies
+
+* **release-it:**  As in examle in my article ([595d802a](https://github.com/Kristinita/SashaBranchReleaseIt/commit/595d802a5452415dfa836ecc763defc6b1006b0f))
+
 #### 2.0.17 (2018-02-11)
 
 ##### Build System / Dependencies
